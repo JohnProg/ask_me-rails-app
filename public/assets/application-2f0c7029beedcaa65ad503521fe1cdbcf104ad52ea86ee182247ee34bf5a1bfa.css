@@ -1,0 +1,42 @@
+/* line 5, /Users/johnmachahuay/Documents/programming/ruby/HU/app/assets/stylesheets/home.scss */
+.box .media {
+  border: thin solid #ddd;
+  padding: 1em;
+  border-radius: 10px;
+  background-color: #eee;
+  position: relative;
+}
+/* line 11, /Users/johnmachahuay/Documents/programming/ruby/HU/app/assets/stylesheets/home.scss */
+.box .media .time {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  color: #666;
+}
+/* line 17, /Users/johnmachahuay/Documents/programming/ruby/HU/app/assets/stylesheets/home.scss */
+.box .media a.btn {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
+/* line 22, /Users/johnmachahuay/Documents/programming/ruby/HU/app/assets/stylesheets/home.scss */
+.box .media:hover {
+  cursor: pointer;
+  background-color: #ddd;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+

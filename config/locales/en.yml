@@ -21,3 +21,6 @@
 
 en:
   hello: "Hello world"
+  main_mailer:
+    notify_question_author:
+      subject: "New answer to your question"
